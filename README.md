@@ -1,11 +1,14 @@
 # Trabajo Practico #1
-Trabajo práctico de limpieza de un data set de _properatti_ para el curso de Data Science en Digital House. 
+Trabajo práctico de limpieza de un dataset de _properatti_ para el curso de Data Science en Digital House. 
 ## Grupo 3
 * Pablo Concetti
 * Erick Consuegra
 * Alejandra Penas
 * Gerardo Toso 
 * Benkos Triana
+
+## Archivo principal del proyecto
+*Limpieza.ipyn*
 
 ## La metodologia que se siguió para la limpieza del data set fue: 
 1. 
